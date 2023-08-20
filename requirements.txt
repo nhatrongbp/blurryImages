@@ -3,4 +3,3 @@ pandas
 joblib
 flask
 scikit-learn
-gunicorn
